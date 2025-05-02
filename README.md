@@ -1,4 +1,4 @@
-# MoMoGuard-GH: Mobile Money Fraud Detection for Ghana
+# MoMoGuard: Mobile Money Fraud Detection
 
 MoMoGuard-GH is an AI-powered fraud detection system designed specifically for mobile money transactions in Ghana. The system uses machine learning to identify potentially fraudulent transactions in real-time, helping to protect users from scams, unauthorized transactions, and SIM swap fraud.
 
