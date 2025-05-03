@@ -1,0 +1,167 @@
+[
+  {
+    "transaction_id": "TX10001",
+    "timestamp": "2025-04-30T10:15:32",
+    "sender_phone": "+233201234567",
+    "receiver_phone": "+233207654321",
+    "amount": 150.00,
+    "transaction_type": "transfer",
+    "location": "Accra",
+    "device_id": "S23-XYZ-1234",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TX10002",
+    "timestamp": "2025-04-30T11:20:15",
+    "sender_phone": "+233201234567",
+    "receiver_phone": "+233555444333",
+    "amount": 75.50,
+    "transaction_type": "payment",
+    "location": "Accra",
+    "device_id": "S23-XYZ-1234",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TX10003",
+    "timestamp": "2025-04-30T14:05:22",
+    "sender_phone": "+233209876543",
+    "receiver_phone": "+233201234567",
+    "amount": 500.00,
+    "transaction_type": "cash_in",
+    "location": "Kumasi",
+    "device_id": "IP13-ABC-5678",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TX10004",
+    "timestamp": "2025-04-30T16:45:10",
+    "sender_phone": "+233201234567",
+    "receiver_phone": "+254712345678",
+    "amount": 300.00,
+    "transaction_type": "transfer",
+    "location": "Accra",
+    "device_id": "S23-XYZ-1234",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TX10005",
+    "timestamp": "2025-04-30T23:12:05",
+    "sender_phone": "+233201234567",
+    "receiver_phone": "+233599887766",
+    "amount": 1200.00,
+    "transaction_type": "transfer",
+    "location": "Accra",
+    "device_id": "NEW-DEVICE-9876",
+    "status": "flagged"
+  },
+  {
+    "transaction_id": "TX10006",
+    "timestamp": "2025-05-01T08:30:18",
+    "sender_phone": "+233201234567",
+    "receiver_phone": "+233207654321",
+    "amount": 125.00,
+    "transaction_type": "payment",
+    "location": "Accra",
+    "device_id": "S23-XYZ-1234",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TX10007",
+    "timestamp": "2025-05-01T10:22:47",
+    "sender_phone": "+233209876543",
+    "receiver_phone": "+233544332211",
+    "amount": 200.00,
+    "transaction_type": "transfer",
+    "location": "Kumasi",
+    "device_id": "IP13-ABC-5678",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TX10008",
+    "timestamp": "2025-05-01T12:40:33",
+    "sender_phone": "+233201234567",
+    "receiver_phone": "+233566778899",
+    "amount": 450.00,
+    "transaction_type": "transfer",
+    "location": "Accra",
+    "device_id": "S23-XYZ-1234",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TX10009",
+    "timestamp": "2025-05-01T15:17:52",
+    "sender_phone": "+233566778899",
+    "receiver_phone": "+233201234567",
+    "amount": 450.00,
+    "transaction_type": "transfer",
+    "location": "Tamale",
+    "device_id": "HW-DEF-6543",
+    "status": "flagged"
+  },
+  {
+    "transaction_id": "TX10010",
+    "timestamp": "2025-05-01T16:35:20",
+    "sender_phone": "+233201234567",
+    "receiver_phone": "+233244556677",
+    "amount": 1500.00,
+    "transaction_type": "transfer",
+    "location": "Accra",
+    "device_id": "S23-XYZ-1234",
+    "status": "pending_verification"
+  },
+  {
+    "transaction_id": "TX10011",
+    "timestamp": "2025-05-01T18:05:40",
+    "sender_phone": "+233209876543",
+    "receiver_phone": "+233201234567",
+    "amount": 350.00,
+    "transaction_type": "cash_in",
+    "location": "Kumasi",
+    "device_id": "IP13-ABC-5678",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TX10012",
+    "timestamp": "2025-05-01T20:30:15",
+    "sender_phone": "+233201234567",
+    "receiver_phone": "+233599887766",
+    "amount": 100.00,
+    "transaction_type": "payment",
+    "location": "Accra",
+    "device_id": "S23-XYZ-1234",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TX10013",
+    "timestamp": "2025-05-02T07:45:22",
+    "sender_phone": "+233544332211",
+    "receiver_phone": "+233209876543",
+    "amount": 275.50,
+    "transaction_type": "transfer",
+    "location": "Tema",
+    "device_id": "XT5-GHI-7890",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TX10014",
+    "timestamp": "2025-05-02T08:12:35",
+    "sender_phone": "+233201234567",
+    "receiver_phone": "+233599887766",
+    "amount": 1100.00,
+    "transaction_type": "transfer",
+    "location": "Accra",
+    "device_id": "S23-XYZ-1234",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "TX10015",
+    "timestamp": "2025-05-02T09:30:44",
+    "sender_phone": "+233599887766",
+    "receiver_phone": "+233500111222",
+    "amount": 1000.00,
+    "transaction_type": "transfer",
+    "location": "Sekondi-Takoradi",
+    "device_id": "OPP-JKL-2468",
+    "status": "flagged"
+  }
+]
