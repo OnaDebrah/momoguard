@@ -71,34 +71,3 @@ def generate_synthetic_data(n_samples: int = 10000, fraud_ratio: float = 0.05) -
     df = df.sample(frac=1, random_state=42).reset_index(drop=True)
 
     return df
-
-# def preview_data(df: pd.DataFrame, n_rows: int = 5) -> pd.DataFrame:
-#     """
-#     Preview the first few rows of the generated data
-#
-#     Parameters:
-#     -----------
-#     df : pd.DataFrame
-#         The generated transaction data
-#     n_rows : int, optional
-#         Number of rows to display (default: 5)
-#
-#     Returns:
-#     --------
-#     pd.DataFrame
-#         First n_rows of the data
-#     """
-#     return df.head(n_rows)
-#
-# # Example usage
-# if __name__ == "__main__":
-#     # Generate and preview data
-#     transactions_df = generate_synthetic_data()
-#     print("Generated transaction data preview:")
-#     print(preview_data(transactions_df))
-#
-#     # Print basic statistics
-#     print("\nBasic statistics:")
-#     print(f"Total transactions: {len(transactions_df)}")
-#     print(f"Fraudulent transactions: {transactions_df['is_fraud'].sum()} "
-#           f"({transactions_df['is_fraud'].mean()*100:.2f}%)")
